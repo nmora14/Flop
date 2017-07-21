@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>flop.xcscheme</key>
+		<key>Flop.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>8811C39D1F1D35CF0058D041</key>
+		<key>88B822711F22642A004AB818</key>
 		<dict>
 			<key>primary</key>
 			<true/>

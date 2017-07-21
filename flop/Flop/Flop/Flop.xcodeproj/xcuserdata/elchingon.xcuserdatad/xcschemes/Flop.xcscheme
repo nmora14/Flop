@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8811C39D1F1D35CF0058D041"
-               BuildableName = "flop.app"
-               BlueprintName = "flop"
-               ReferencedContainer = "container:flop.xcodeproj">
+               BlueprintIdentifier = "88B822711F22642A004AB818"
+               BuildableName = "Flop.app"
+               BlueprintName = "Flop"
+               ReferencedContainer = "container:Flop.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8811C39D1F1D35CF0058D041"
-            BuildableName = "flop.app"
-            BlueprintName = "flop"
-            ReferencedContainer = "container:flop.xcodeproj">
+            BlueprintIdentifier = "88B822711F22642A004AB818"
+            BuildableName = "Flop.app"
+            BlueprintName = "Flop"
+            ReferencedContainer = "container:Flop.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8811C39D1F1D35CF0058D041"
-            BuildableName = "flop.app"
-            BlueprintName = "flop"
-            ReferencedContainer = "container:flop.xcodeproj">
+            BlueprintIdentifier = "88B822711F22642A004AB818"
+            BuildableName = "Flop.app"
+            BlueprintName = "Flop"
+            ReferencedContainer = "container:Flop.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8811C39D1F1D35CF0058D041"
-            BuildableName = "flop.app"
-            BlueprintName = "flop"
-            ReferencedContainer = "container:flop.xcodeproj">
+            BlueprintIdentifier = "88B822711F22642A004AB818"
+            BuildableName = "Flop.app"
+            BlueprintName = "Flop"
+            ReferencedContainer = "container:Flop.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
